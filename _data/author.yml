@@ -1,10 +1,10 @@
 # Author settings
-name: 京东推荐系统数据科学公开博客
+name: 算法读书笔记
 title: 
 address: 中国, 北京
-email: liusizhe@jd.com
-github: liungkejin
-gavatar: /assets/img/avatar.JPG
+email: 招聘请投递：liusizhe@jd.com
+github: alpharec
+gavatar: /assets/img/avatar.png
 workHistory:
 - work3:
   company: 北京大学数学学院
@@ -14,13 +14,21 @@ workHistory:
   duration: (2015.12 - Present)
   description: 负责开发推荐算法及线上策略
 
+- work3:
+  company: 明尼苏达大学
+  location: 中国，湖南
+  title: 算法工程师
+  started: 熊熹
+  duration: (2015.06 - Present)
+  description: 负责开发推荐算法及线上策略
+
 - work2:
-  company: 肯塔基⼤大学 University of Kentucky
+  company: 肯塔基大学 University of Kentucky
   location: 中国，杭州
   title: 算法工程师
   started: 赵屹华
-  duration: (2016.4 - Present)
-  description: 在Android系统环境下修复所存在的 bug, 并开发新功能, 主要负责 RIL/Telephony
+  duration: (2016.04 - Present)
+  description: 
 
 - work1:
   company: AAA大学
@@ -34,18 +42,18 @@ workHistory:
   company: AAA大学
   location: 中国, 保定
   title: 算法工程师
-  started: hubingci
+  started: 胡炳慈
   duration: (2012.10 - Present)
   description: 数据分析及算法优化
 
 educationHistory:
 - education1:
-  organization: 安徽大学
-  degree: 学士
-  major: 化学工程与工艺
-  started: 2010
-  duration: (2010.9 - 2014.7)
-  description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛
+  organization: 北京大学
+  major: 元培学院
+  started: 朱剑锋
+  duration: (2014.9 - 2015.12)
+  description: 算法开发及策略优化
+
 programmingSkills:
 - Java:
   name: Java/Android

@@ -1,10 +1,10 @@
 ---
 layout: post_layout
 title: Jekyll语法高亮问题
-time: 2016年04月03日
+time: 2016.04.03
 author: 曾子权
-pulished: true
-excerpt_separator: "#"
+published: true
+excerpt_separator: "--"
 ---
 
 
@@ -12,9 +12,11 @@ Jekyll 的语法高亮在 Jekyll 3.0 以上默认使用的是 [Rouge](http://rou
 如果使用的是 Jekyll 2, 需要在配置文件里面设置 `highlighter` 为 `rouge`,
  并确保 rouge 被正确的安装了
 
+--
+
 __[表示此方法我没成功]__
 
----
+
 
 另外, 就是使用 [Pygments](http://pygments.org/), 这个需要使用 Python 来安装
 

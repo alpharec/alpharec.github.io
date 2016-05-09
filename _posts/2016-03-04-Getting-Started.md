@@ -1,9 +1,9 @@
 ---
 layout: post_layout
 title: 开始篇
-time: 2016年03月05日
+time: 2016.03.05
 author: 李朋飞
-pulished: true
+published: true
 excerpt_separator: "```"
 ---
 
@@ -19,3 +19,13 @@ excerpt_separator: "```"
 ```bash
 echo "你好, Github Pages!";
 ```
+
+This is mathjax
+
+$$
+a^2 + b^2 = 1
+$$
+
+done!
+
+

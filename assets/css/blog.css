@@ -225,3 +225,165 @@ div.authorimage {
     font-family: sans-serif;
     margin-top: 40px;
 }
+.pull-right {
+    float: right;
+}
+.wrapper  {
+    background-color:  #fff;
+    margin:  10px 0px 50px 0px;
+    padding:  10px 0px;
+}
+
+
+pre code{margin:1em 0;line-height:1.6;display:block;overflow:auto;}
+code{font-family:"Courier New","Microsoft YaHei",Consolas,monospace;font-size:14px;padding:0px 6px;}
+pre {
+    display: block;
+    padding: 8px;  
+    background-color: #f7f7f9;
+    margin: 0 0 30px;
+    line-height: 10px;
+    border: 1px solid #e1e1e8;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    white-space: pre;
+    white-space: pre-wrap;
+    word-break: break-all;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    color: #555;
+    margin: 0;
+    text-rendering: optimizelegibility;
+}
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+    font-weight: normal;
+    color: #CED1D1;
+}
+h1 {
+    line-height: 60px;
+    color:	##000;
+    font-size: 24px;
+    font-weight: bold;
+}
+h1 small {
+    font-size: 16px;;
+}
+h2 {
+    color:  #777;
+    margin:  20px 0px;
+    font-weight: bold;
+    font-size:  19px;
+    text-align: left;
+    line-height:  35px;
+}
+h2 small {
+    font-size: 17px;
+}
+h3 {
+    line-height: 17px;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 10px 30px;
+}
+h3 small {
+    font-size: 14px;
+}
+h4, h5, h6 {
+    line-height: 15px;
+}
+h4 {
+    font-size: 14px;
+}
+h4 small {
+    font-size: 12px;
+}
+
+
+table
+    {
+    border-collapse: collapse;
+    border-spacing: 0; /* IE 6 */
+ 
+    border-bottom: 2pt solid #000;
+    border-top: 2pt solid #000; /* The caption on top will not have a bottom-border */
+ 
+    /* Center */
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+thead /* Entire table header */
+    {
+    border-bottom: 1pt solid #000;
+    background-color: #eee; /* Does this BG print well? */
+    }
+ 
+tr.header /* Each header row */
+    {
+    } 
+ 
+tbody /* Entire table  body */
+    {
+    }
+ 
+/* Table body rows */
+ 
+tr  {
+    }
+tr.odd:hover, tr.even:hover /* Use .odd and .even classes to avoid styling rows in other tables */
+    {
+    background-color: #eee;
+    }
+    
+/* Odd and even rows */
+tr.odd {}
+tr.even {}
+ 
+td, th /* Table cells and table header cells */
+    { 
+    vertical-align: top; /* Word */
+    vertical-align: baseline; /* Others */
+    padding-left:   0.5em;
+    padding-right:  0.5em;
+    padding-top:    0.2em;
+    padding-bottom: 0.2em;
+    }
+    
+/* Removes padding on left and right of table for a tight look. Good if thead has no background color*/
+/*
+tr td:last-child, tr th:last-child
+    {
+    padding-right: 0;
+    }
+tr td:first-child, tr th:first-child 
+    {
+    padding-left: 0;
+    }
+*/
+ 
+th /* Table header cells */
+    {
+    font-weight: bold; 
+    }
+ 
+tfoot /* Table footer (what appears here if caption is on top?) */
+    {
+    }
+ 
+caption /* This is for a table caption tag, not the p.caption Pandoc uses in a div.figure */
+    {
+    caption-side: top;
+    border: none;
+    font-size: 0.9em;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 0.3em; /* Good for when on top */
+    padding-bottom: 0.2em;
+    }
+ 
+
+
+

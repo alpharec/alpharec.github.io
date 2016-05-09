@@ -1,7 +1,7 @@
 # Site settings
-title: alpharec
+title: AlphaRec
 description: staff blog
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatar.png
 baseurl:
 url: https://alpharec.github.io
 rss_url:

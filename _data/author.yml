@@ -1,0 +1,65 @@
+# Author settings
+name: 京东推荐系统数据科学公开博客
+title: 
+address: 中国, 北京
+email: liusizhe@jd.com
+github: liungkejin
+gavatar: /assets/img/avatar.JPG
+workHistory:
+- work3:
+  company: 北京大学数学学院
+  location: 中国，福建
+  title: 算法工程师
+  started: 曾子权
+  duration: (2015.12 - Present)
+  description: 负责开发推荐算法及线上策略
+
+- work2:
+  company: 肯塔基⼤大学 University of Kentucky
+  location: 中国，杭州
+  title: 算法工程师
+  started: 赵屹华
+  duration: (2016.4 - Present)
+  description: 在Android系统环境下修复所存在的 bug, 并开发新功能, 主要负责 RIL/Telephony
+
+- work1:
+  company: AAA大学
+  location: 中国, 保定
+  title: 算法工程师
+  started: 李朋飞
+  duration: (2015.10 - Present)
+  description: 数据分析及算法优化
+
+- work1:
+  company: AAA大学
+  location: 中国, 保定
+  title: 算法工程师
+  started: hubingci
+  duration: (2012.10 - Present)
+  description: 数据分析及算法优化
+
+educationHistory:
+- education1:
+  organization: 安徽大学
+  degree: 学士
+  major: 化学工程与工艺
+  started: 2010
+  duration: (2010.9 - 2014.7)
+  description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛
+programmingSkills:
+- Java:
+  name: Java/Android
+  percentage: 90%
+- 算法:
+  name: 算法
+  percentage: 90%
+- CPP:
+  name: C/C++
+  percentage: 70%
+- R:
+  name: R
+  percentage: 90%
+- Python:
+  name: Python
+  percentage: 30%
+

@@ -55,19 +55,9 @@ educationHistory:
   description: 算法开发及策略优化
 
 programmingSkills:
-- Java:
-  name: Java/Android
-  percentage: 90%
-- 算法:
-  name: 算法
-  percentage: 90%
-- CPP:
-  name: C/C++
-  percentage: 70%
-- R:
-  name: R
-  percentage: 90%
-- Python:
-  name: Python
-  percentage: 30%
-
+- 曾子权:
+  name: 曾子权
+  percentage: 3
+- 熊熹:
+  name: 熊熹
+  percentage: 1
